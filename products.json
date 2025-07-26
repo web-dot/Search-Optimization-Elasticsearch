@@ -16,5 +16,47 @@
     "title": "Nike Running Shoes",
     "description": "Comfortable running shoes with great grip",
     "category": "Footwear"
+  },
+  {
+    "id": 4,
+    "title": "Adidas Trail Runners",
+    "description": "Shoes designed for trail running with extra traction and support",
+    "category": "Footwear"
+  },
+  {
+    "id": 5,
+    "title": "iPhone Charger Cable",
+    "description": "Durable lightning cable compatible with iPhone and iPad",
+    "category": "Accessories"
+  },
+  {
+    "id": 6,
+    "title": "MacBook Pro 16-inch",
+    "description": "High-performance Apple laptop with M2 chip and Retina display",
+    "category": "Computers"
+  },
+  {
+    "id": 7,
+    "title": "Running Shorts",
+    "description": "Breathable fabric, ideal for workouts and running routines",
+    "category": "Clothing"
+  },
+  {
+    "id": 8,
+    "title": "Wireless Earbuds",
+    "description": "Noise-cancelling earbuds with long battery life and charging case",
+    "category": "Electronics"
+  },
+  {
+    "id": 9,
+    "title": "Leather Dress Shoes",
+    "description": "Formal shoes made of genuine leather for office and events",
+    "category": "Footwear"
+  },
+  {
+    "id": 10,
+    "title": "Smartwatch Fitness Tracker",
+    "description": "Monitors heart rate, steps, and workouts; waterproof design",
+    "category": "Wearables"
   }
 ]
